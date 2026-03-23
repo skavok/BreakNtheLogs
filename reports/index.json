@@ -1,0 +1,37 @@
+{
+  "siteTheme": {
+    "ui": "classic",
+    "paletteId": "Arcane",
+    "kineticFont": "default"
+  },
+  "entries": [
+    {
+      "id": "20260322-200108-p7zi",
+      "title": "Lightspeed Jack",
+      "commanders": [
+        "Lightspeed Jack"
+      ],
+      "dateStart": "2026-03-23T00:01:08.000Z",
+      "dateEnd": "2026-03-23T02:03:57.000Z",
+      "dateLabel": "3/22/2026, 8:01:08 PM - 3/22/2026, 10:03:57 PM",
+      "url": "https://skavok.github.io/BreakNtheLogs/?report=20260322-200108-p7zi",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 40,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 10,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 26
+      }
+    }
+  ]
+}
