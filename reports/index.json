@@ -1,10 +1,40 @@
 {
-  "siteTheme": {
-    "ui": "classic",
-    "paletteId": "Arcane",
-    "kineticFont": "default"
-  },
+  "colorPalette": "electric-blue",
+  "glassSurfaces": false,
   "entries": [
+    {
+      "id": "20260401-201111-pzul",
+      "title": "Reven The Big Show",
+      "commanders": [
+        "Reven The Big Show"
+      ],
+      "dateStart": "2026-04-02T00:11:11.000Z",
+      "dateEnd": "2026-04-02T01:49:41.000Z",
+      "dateLabel": "4/1/2026, 8:11:11 PM - 4/1/2026, 9:49:41 PM",
+      "url": "https://skavok.github.io/BreakNtheLogs/?report=20260401-201111-pzul",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 16,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 6,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 3,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 22
+      }
+    },
     {
       "id": "20260322-200108-p7zi",
       "title": "Lightspeed Jack",
