@@ -3,6 +3,30 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260408-113942-ki2y",
+      "title": "Pope Elric, Zirzis",
+      "commanders": [
+        "Pope Elric",
+        "Zirzis"
+      ],
+      "dateStart": "2026-04-08T15:39:42.000Z",
+      "dateEnd": "2026-04-08T16:37:42.000Z",
+      "dateLabel": "4/8/2026, 11:39:42 AM - 4/8/2026, 12:37:42 PM",
+      "url": "https://skavok.github.io/BreakNtheLogs/?report=20260408-113942-ki2y",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 15,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 14
+      }
+    },
+    {
       "id": "20260406-211347-473m",
       "title": "Prez Ashton",
       "commanders": [
