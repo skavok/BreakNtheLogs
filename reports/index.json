@@ -3,6 +3,29 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260411-205835-kdvs",
+      "title": "Dub Grumble",
+      "commanders": [
+        "Dub Grumble"
+      ],
+      "dateStart": "2026-04-12T00:58:35.000Z",
+      "dateEnd": "2026-04-12T01:50:57.000Z",
+      "dateLabel": "4/11/2026, 8:58:35 PM - 4/11/2026, 9:50:57 PM",
+      "url": "https://skavok.github.io/BreakNtheLogs/?report=20260411-205835-kdvs",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 37,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 39,
+        "avgEnemySize": 43
+      }
+    },
+    {
       "id": "20260409-210441-syrj",
       "title": "Dub Grumble",
       "commanders": [
