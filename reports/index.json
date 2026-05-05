@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260504-210830-1px3",
+      "title": "Mesmer Kamoidra",
+      "commanders": [
+        "Mesmer Kamoidra"
+      ],
+      "dateStart": "2026-05-05T01:08:30.000Z",
+      "dateEnd": "2026-05-05T02:15:39.000Z",
+      "dateLabel": "5/4/2026, 9:08:30 PM - 5/4/2026, 10:15:39 PM",
+      "url": "https://skavok.github.io/BreakNtheLogs/?report=20260504-210830-1px3",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 33,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 36,
+        "avgEnemySize": 36
+      }
+    },
+    {
       "id": "20260503-200610-ae6w",
       "title": "Lightspeed Jack",
       "commanders": [
