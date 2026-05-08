@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260507-211153-p4i4",
+      "title": "Not Haro",
+      "commanders": [
+        "Not Haro"
+      ],
+      "dateStart": "2026-05-08T01:11:53.000Z",
+      "dateEnd": "2026-05-08T01:55:12.000Z",
+      "dateLabel": "5/7/2026, 9:11:53 PM - 5/7/2026, 9:55:12 PM",
+      "url": "https://skavok.github.io/BreakNtheLogs/?report=20260507-211153-p4i4",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 16,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 44
+      }
+    },
+    {
       "id": "20260504-210830-1px3",
       "title": "Mesmer Kamoidra",
       "commanders": [
