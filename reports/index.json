@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260510-200034-tq76",
+      "title": "Lightspeed Jack",
+      "commanders": [
+        "Lightspeed Jack"
+      ],
+      "dateStart": "2026-05-11T00:00:34.000Z",
+      "dateEnd": "2026-05-11T00:46:44.000Z",
+      "dateLabel": "5/10/2026, 8:00:34 PM - 5/10/2026, 8:46:44 PM",
+      "url": "https://skavok.github.io/BreakNtheLogs/?report=20260510-200034-tq76",
+      "summary": {
+        "borderlandsPct": 0.65,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 13,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 7,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 33,
+        "avgEnemySize": 39
+      }
+    },
+    {
       "id": "20260510-191124-143m",
       "title": "Lightspeed Jack",
       "commanders": [
