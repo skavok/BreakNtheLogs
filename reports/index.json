@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260510-191124-143m",
+      "title": "Lightspeed Jack",
+      "commanders": [
+        "Lightspeed Jack"
+      ],
+      "dateStart": "2026-05-10T23:11:24.000Z",
+      "dateEnd": "2026-05-10T23:53:53.000Z",
+      "dateLabel": "5/10/2026, 7:11:24 PM - 5/10/2026, 7:53:53 PM",
+      "url": "https://skavok.github.io/BreakNtheLogs/?report=20260510-191124-143m",
+      "summary": {
+        "borderlandsPct": 0.3611111111111111,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 23,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 13,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 39
+      }
+    },
+    {
       "id": "20260507-211153-p4i4",
       "title": "Not Haro",
       "commanders": [
