@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260615-205946-bn68",
+      "title": "Prez Ashton",
+      "commanders": [
+        "Prez Ashton"
+      ],
+      "dateStart": "2026-06-16T00:59:46.000Z",
+      "dateEnd": "2026-06-16T01:49:43.000Z",
+      "dateLabel": "6/15/2026, 8:59:46 PM - 6/15/2026, 9:49:43 PM",
+      "url": "https://skavok.github.io/BreakNtheLogs/?report=20260615-205946-bn68",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 24,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 7,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 33,
+        "avgEnemySize": 36
+      }
+    },
+    {
       "id": "20260613-210718-vmj3",
       "title": "Dub Grumble",
       "commanders": [
