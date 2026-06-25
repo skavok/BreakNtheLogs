@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260624-203647-h07x",
+      "title": "Fíbbs",
+      "commanders": [
+        "Fíbbs"
+      ],
+      "dateStart": "2026-06-25T00:36:47.000Z",
+      "dateEnd": "2026-06-25T01:18:27.000Z",
+      "dateLabel": "6/24/2026, 8:36:47 PM - 6/24/2026, 9:18:27 PM",
+      "url": "https://skavok.github.io/BreakNtheLogs/?report=20260624-203647-h07x",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 17,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 10,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 33,
+        "avgEnemySize": 31
+      }
+    },
+    {
       "id": "20260617-203455-sbsp",
       "title": "Fíbbs",
       "commanders": [
