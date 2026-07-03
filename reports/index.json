@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260702-205901-k8ma",
+      "title": "Mesmer Kamoidra",
+      "commanders": [
+        "Mesmer Kamoidra"
+      ],
+      "dateStart": "2026-07-03T00:59:01.000Z",
+      "dateEnd": "2026-07-03T01:53:36.000Z",
+      "dateLabel": "7/2/2026, 8:59:01 PM - 7/2/2026, 9:53:36 PM",
+      "url": "https://skavok.github.io/BreakNtheLogs/?report=20260702-205901-k8ma",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 19,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 40
+      }
+    },
+    {
       "id": "20260624-203647-h07x",
       "title": "Fíbbs",
       "commanders": [
