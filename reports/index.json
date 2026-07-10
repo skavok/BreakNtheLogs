@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260710-002437-mkis",
+      "title": "Prez Ashtonn",
+      "commanders": [
+        "Prez Ashtonn"
+      ],
+      "dateStart": "2026-07-10T04:24:37.000Z",
+      "dateEnd": "2026-07-10T05:57:34.000Z",
+      "dateLabel": "7/10/2026, 12:24:37 AM - 7/10/2026, 1:57:34 AM",
+      "url": "https://skavok.github.io/BreakNtheLogs/?report=20260710-002437-mkis",
+      "summary": {
+        "borderlandsPct": 0.038461538461538464,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 25,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 16,
+        "avgEnemySize": 32
+      }
+    },
+    {
       "id": "20260708-234555-j31b",
       "title": "Prez Ashton, Prez Ashtonn",
       "commanders": [
