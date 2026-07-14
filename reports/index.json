@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260713-234033-qofd",
+      "title": "Tilted Illusion",
+      "commanders": [
+        "Tilted Illusion"
+      ],
+      "dateStart": "2026-07-14T03:40:33.000Z",
+      "dateEnd": "2026-07-14T04:15:14.000Z",
+      "dateLabel": "7/13/2026, 11:40:33 PM - 7/14/2026, 12:15:14 AM",
+      "url": "https://skavok.github.io/BreakNtheLogs/?report=20260713-234033-qofd",
+      "summary": {
+        "borderlandsPct": 0.9,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 9,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 1,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 27
+      }
+    },
+    {
       "id": "20260713-232702-3lsh",
       "title": "Tilted Illusion",
       "commanders": [
