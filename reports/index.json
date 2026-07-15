@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260715-004811-1wz1",
+      "title": "Tilted Illusion",
+      "commanders": [
+        "Tilted Illusion"
+      ],
+      "dateStart": "2026-07-15T04:48:11.000Z",
+      "dateEnd": "2026-07-15T06:24:00.000Z",
+      "dateLabel": "7/15/2026, 12:48:11 AM - 7/15/2026, 2:24:00 AM",
+      "url": "https://skavok.github.io/BreakNtheLogs/?report=20260715-004811-1wz1",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 19,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 9,
+        "avgEnemySize": 17
+      }
+    },
+    {
       "id": "20260713-234033-qofd",
       "title": "Tilted Illusion",
       "commanders": [
