@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260721-221325-ifp2",
+      "title": "Çondó",
+      "commanders": [
+        "Çondó"
+      ],
+      "dateStart": "2026-07-22T02:13:25.000Z",
+      "dateEnd": "2026-07-22T02:58:15.000Z",
+      "dateLabel": "7/21/2026, 10:13:25 PM - 7/21/2026, 10:58:15 PM",
+      "url": "https://skavok.github.io/BreakNtheLogs/?report=20260721-221325-ifp2",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Obsidian Sanctum",
+            "value": 36,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 41,
+        "avgEnemySize": 38
+      }
+    },
+    {
       "id": "20260715-004811-1wz1",
       "title": "Tilted Illusion",
       "commanders": [
