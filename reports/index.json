@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260725-221016-rqe9",
+      "title": "Diamond Footman",
+      "commanders": [
+        "Diamond Footman"
+      ],
+      "dateStart": "2026-07-26T02:10:16.000Z",
+      "dateEnd": "2026-07-26T02:55:46.000Z",
+      "dateLabel": "7/25/2026, 10:10:16 PM - 7/25/2026, 10:55:46 PM",
+      "url": "https://skavok.github.io/BreakNtheLogs/?report=20260725-221016-rqe9",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 17,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 21
+      }
+    },
+    {
       "id": "20260725-212606-i2xu",
       "title": "Diamond Footman",
       "commanders": [
