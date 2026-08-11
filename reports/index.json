@@ -28,34 +28,6 @@
     }
   },
   {
-    "id": "20260811-003632-x4i7",
-    "title": "Tilted Illusion",
-    "commanders": [
-      "Tilted Illusion"
-    ],
-    "guild": {
-      "id": "ECA67DFD-F97A-EF11-81A9-8FB5CFBE7766",
-      "name": "Learning The Hard Way",
-      "tag": "FAFO"
-    },
-    "dateStart": "2026-08-11T04:36:32.000Z",
-    "dateEnd": "2026-08-11T05:21:20.000Z",
-    "dateLabel": "8/11/2026, 12:36:32 AM - 8/11/2026, 1:21:20 AM",
-    "url": "https://skavok.github.io/BreakNtheLogs/?report=20260811-003632-x4i7",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 43,
-          "color": "#ffffff"
-        }
-      ],
-      "avgSquadSize": 13,
-      "avgEnemySize": 43
-    }
-  },
-  {
     "id": "20260725-221016-rqe9",
     "title": "Diamond Footman",
     "commanders": [
