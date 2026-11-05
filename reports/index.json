@@ -48,45 +48,6 @@
       }
     },
     {
-      "id": "20261104-212858-nu9v",
-      "title": "Reven The Big Show",
-      "commanders": [
-        "Reven The Big Show"
-      ],
-      "guild": {
-        "id": "ECA67DFD-F97A-EF11-81A9-8FB5CFBE7766",
-        "name": "Learning The Hard Way",
-        "tag": "FAFO"
-      },
-      "dateStart": "2026-11-05T02:28:58.000Z",
-      "dateEnd": "2026-11-05T03:17:46.344Z",
-      "dateLabel": "11/4/2026, 9:28:58 PM - 11/4/2026, 10:17:46 PM",
-      "url": "https://skavok.github.io/BreakNtheLogs/?report=20261104-212858-nu9v",
-      "publishedBy": "skavok",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Green Borderlands",
-            "value": 17,
-            "color": "#22c55e"
-          },
-          {
-            "name": "Red Borderlands",
-            "value": 14,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 3,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 23,
-        "avgEnemySize": 35
-      }
-    },
-    {
       "id": "20261104-232152-ak9x",
       "title": "Tilted Illusion",
       "commanders": [
