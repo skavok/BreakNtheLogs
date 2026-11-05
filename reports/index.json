@@ -314,34 +314,6 @@
         "avgSquadSize": 18,
         "avgEnemySize": 27
       }
-    },
-    {
-      "id": "20260712-200909-0h77",
-      "title": "Lightspeed Jack",
-      "commanders": [
-        "Lightspeed Jack"
-      ],
-      "dateStart": "2026-07-13T00:09:09.000Z",
-      "dateEnd": "2026-07-13T00:45:13.000Z",
-      "dateLabel": "7/12/2026, 8:09:09 PM - 7/12/2026, 8:45:13 PM",
-      "url": "https://skavok.github.io/BreakNtheLogs/?report=20260712-200909-0h77",
-      "summary": {
-        "borderlandsPct": 0.7714285714285715,
-        "mapSlices": [
-          {
-            "name": "Blue Borderlands",
-            "value": 27,
-            "color": "#3b82f6"
-          },
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 8,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 29,
-        "avgEnemySize": 46
-      }
     }
   ]
 }
