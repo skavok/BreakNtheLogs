@@ -5,9 +5,38 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.11"
+    "version": "3.24.0"
   },
   "entries": [
+    {
+      "id": "20261111-203228-kyf0",
+      "title": "Tilted Illusion",
+      "commanders": [
+        "Tilted Illusion"
+      ],
+      "guild": {
+        "id": "ECA67DFD-F97A-EF11-81A9-8FB5CFBE7766",
+        "name": "Learning The Hard Way",
+        "tag": "FAFO"
+      },
+      "dateStart": "2026-11-12T01:32:28.000Z",
+      "dateEnd": "2026-11-12T03:38:29.430Z",
+      "dateLabel": "11/11/2026, 8:32:28 PM - 11/11/2026, 10:38:29 PM",
+      "url": "https://skavok.github.io/BreakNtheLogs/?report=20261111-203228-kyf0",
+      "publishedBy": "skavok",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 29,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 48,
+        "avgEnemySize": 50
+      }
+    },
     {
       "id": "20261104-212034-404c",
       "title": "Reven The Big Show",
