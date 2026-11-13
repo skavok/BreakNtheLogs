@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261112-214831-81ti",
+      "title": "Öptussy",
+      "commanders": [
+        "Öptussy"
+      ],
+      "guild": {
+        "id": "FE69A624-2F37-F111-BB22-12396678E461",
+        "name": "Kopi Siew",
+        "tag": "DIE"
+      },
+      "dateStart": "2026-11-13T02:48:31.000Z",
+      "dateEnd": "2026-11-13T03:57:14.307Z",
+      "dateLabel": "11/12/2026, 9:48:31 PM - 11/12/2026, 10:57:14 PM",
+      "url": "https://skavok.github.io/BreakNtheLogs/?report=20261112-214831-81ti",
+      "publishedBy": "skavok",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 19,
+            "color": "#64748b"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 10,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 51
+      }
+    },
+    {
       "id": "20261112-205402-lp8g",
       "title": "Öptussy",
       "commanders": [
