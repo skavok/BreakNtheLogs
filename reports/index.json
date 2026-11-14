@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261113-213437-zcr7",
+      "title": "Reven The Big Show",
+      "commanders": [
+        "Reven The Big Show"
+      ],
+      "guild": {
+        "id": "ECA67DFD-F97A-EF11-81A9-8FB5CFBE7766",
+        "name": "Learning The Hard Way",
+        "tag": "FAFO"
+      },
+      "dateStart": "2026-11-14T02:34:37.000Z",
+      "dateEnd": "2026-11-14T03:22:40.679Z",
+      "dateLabel": "11/13/2026, 9:34:37 PM - 11/13/2026, 10:22:40 PM",
+      "url": "https://skavok.github.io/BreakNtheLogs/?report=20261113-213437-zcr7",
+      "publishedBy": "skavok",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 30,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 39,
+        "avgEnemySize": 38
+      }
+    },
+    {
       "id": "20261112-214831-81ti",
       "title": "Öptussy",
       "commanders": [
