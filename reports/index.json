@@ -9,6 +9,36 @@
   },
   "entries": [
     {
+      "id": "20261115-210853-6vrv",
+      "title": "Ebt Baby, Öptussy",
+      "commanders": [
+        "Ebt Baby",
+        "Öptussy"
+      ],
+      "guild": {
+        "id": "B4D4D616-092F-4843-8499-607B795FF247",
+        "name": "Death Dealers Of War",
+        "tag": "DDoW"
+      },
+      "dateStart": "2026-11-16T02:08:53.000Z",
+      "dateEnd": "2026-11-16T02:44:55.305Z",
+      "dateLabel": "11/15/2026, 9:08:53 PM - 11/15/2026, 9:44:55 PM",
+      "url": "https://skavok.github.io/BreakNtheLogs/?report=20261115-210853-6vrv",
+      "publishedBy": "skavok",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 43,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 19
+      }
+    },
+    {
       "id": "20261113-213437-zcr7",
       "title": "Reven The Big Show",
       "commanders": [
