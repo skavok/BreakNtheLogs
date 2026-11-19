@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261118-223449-7sdd",
+      "title": "Prez Ashtonn",
+      "commanders": [
+        "Prez Ashtonn"
+      ],
+      "guild": {
+        "id": "EA176DD1-F15B-ED11-81A9-8FB5CFBE7766",
+        "name": "Engaging Without Warning",
+        "tag": "EWW"
+      },
+      "dateStart": "2026-11-19T03:34:49.000Z",
+      "dateEnd": "2026-11-19T04:11:10.054Z",
+      "dateLabel": "11/18/2026, 10:34:49 PM - 11/18/2026, 11:11:10 PM",
+      "url": "https://skavok.github.io/BreakNtheLogs/?report=20261118-223449-7sdd",
+      "publishedBy": "skavok",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 33,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 32
+      }
+    },
+    {
       "id": "20261115-210853-6vrv",
       "title": "Ebt Baby, Öptussy",
       "commanders": [
