@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261119-211323-hlau",
+      "title": "Jokajo",
+      "commanders": [
+        "Jokajo"
+      ],
+      "guild": {
+        "id": "44E4F9E6-2F4A-EF11-8465-02315AB41281",
+        "name": "We Only Spike Once",
+        "tag": "WOSO"
+      },
+      "dateStart": "2026-11-20T02:13:23.000Z",
+      "dateEnd": "2026-11-20T03:02:52.116Z",
+      "dateLabel": "11/19/2026, 9:13:23 PM - 11/19/2026, 10:02:52 PM",
+      "url": "https://skavok.github.io/BreakNtheLogs/?report=20261119-211323-hlau",
+      "publishedBy": "skavok",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 28,
+            "color": "#64748b"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 3,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 30
+      }
+    },
+    {
       "id": "20261118-223449-nw6l",
       "title": "Prez Ashtonn",
       "commanders": [
